@@ -17,11 +17,11 @@ My technical background includes **predictive modeling**, **business analytics**
 
 ## 🚀 Skills  
 
-- 📊 **Data Analysis & BI**: Power BI, Tableau, Google Looker Studio, data storytelling  
-- 🧠 **Machine Learning & Statistics**: Predictive models, clustering, regression, principal component analysis (PCA)  
-- 🖥️ **Programming**: Python (Pandas, Scikit-Learn, Requests, API integrations), R, SQL, PostgreSQL  
-- ☁️ **Cloud & Big Data**: AWS (Data Engineering)  
-- 📈 **Automation & Web Scraping**: API integrations, data collection automation  
+📊 **Data Analysis & BI**: Power BI, Tableau, Google Looker Studio, data storytelling  
+🧠 **Machine Learning & Statistics**: Predictive models, clustering, regression, principal component analysis (PCA)  
+🖥️ **Programming**: Python (Pandas, Scikit-Learn, Requests, API integrations), R, SQL, PostgreSQL  
+☁️ **Cloud & Big Data**: AWS (Data Engineering)  
+📈 **Automation & Web Scraping**: API integrations, data collection automation  
 
 ---
 
@@ -29,9 +29,9 @@ My technical background includes **predictive modeling**, **business analytics**
 
 Here, you will find projects related to **predictive modeling, statistical analysis, and business intelligence solutions**.  
 
-🔹 **📊 Sales Propensity Models** – Machine learning models to predict customer conversion probability.  
-🔹 **📉 Exploratory Analysis & Dashboards** – Interactive reports using Power BI, Tableau, and Looker Studio.  
-🔹 **🤖 Automation & Chatbots** – AI-powered chatbots for business automation using Python and APIs.  
+**📊 Sales Propensity Models** – Machine learning models to predict customer conversion probability.  
+**📉 Exploratory Analysis & Dashboards** – Interactive reports using Power BI, Tableau, and Looker Studio.  
+**🤖 Automation & Chatbots** – AI-powered chatbots for business automation using Python and APIs.  
 ---
 
 ## 📬 Contact  

@@ -29,9 +29,9 @@ My technical background includes **predictive modeling**, **business analytics**
 
 Here, you will find projects related to **predictive modeling, statistical analysis, and business intelligence solutions**.  
 
-📊 **Sales Propensity Models** – Machine learning models to predict customer conversion probability.  
-📉 **Exploratory Analysis & Dashboards** – Interactive reports using Power BI, Tableau, and Looker Studio.  
-🤖 **Automation & Chatbots** – AI-powered chatbots for business automation using Python and APIs.  
+📊**Sales Propensity Models** – Machine learning models to predict customer conversion probability.  
+📉**Exploratory Analysis & Dashboards** – Interactive reports using Power BI, Tableau, and Looker Studio.  
+🤖**Automation & Chatbots** – AI-powered chatbots for business automation using Python and APIs.  
 ---
 
 ## 📬 Contact  
